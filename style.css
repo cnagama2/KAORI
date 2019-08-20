@@ -176,7 +176,13 @@ a:hover { color: #222; }
 
 a img { border: none; }
 
-img { max-width: 100%; }
+img { max-width: 100%;}
+
+/* .book-card img {
+	width: 100%;
+	height: 450px;
+	object-fit: cover;
+} */
 
 iframe { border: none !important; }
 
@@ -9763,7 +9769,7 @@ body:not(.device-touch) .clients-grid li a {
 
 .section > .testimonial[data-animation="fade"] { padding: 0; }
 
-.section > .testimonial .testi-content { font-size: 22px; }
+.section > .testimonial .testi-content { font-size: 1rem; }
 
 .section > .testimonial .testi-meta,
 .section > .testimonial .testi-meta span { font-size: 14px; }
