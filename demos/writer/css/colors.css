@@ -60,7 +60,7 @@ h6 > span:not(.nocolor):not(.badge),
 .page-link:focus,
 .dark .post-timeline .entry:hover .entry-timeline,
 .dark .post-timeline .entry:hover .timeline-divider,
-.clear-rating-active:hover { color: #ffc013; }
+.clear-rating-active:hover { color: #258e4c; }
 
 .color,
 .top-cart-item-desc a:hover,
@@ -75,7 +75,7 @@ h6 > span:not(.nocolor):not(.badge),
 .overlay-menu #primary-menu.dark > ul > li.current > a,
 .nav-tree li:hover > a,
 .nav-tree li.current > a,
-.nav-tree li.active > a { color: #ffc013 !important; }
+.nav-tree li.active > a { color: #258e4c !important; }
 
 #primary-menu.style-3 > ul > li.current > a,
 #primary-menu.sub-title > ul > li:hover > a,
