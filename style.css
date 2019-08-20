@@ -3263,7 +3263,7 @@ body:not(.stretched) .slider-parallax .slider-parallax-inner { left: auto; }
 .slider-arrow-bottom-sm:hover { background-color: rgba(0,0,0,0.6) !important; }
 
 
-/* Slide Number
+	/* Slide Number
 -----------------------------------------------------------------*/
 
 .slide-number {
