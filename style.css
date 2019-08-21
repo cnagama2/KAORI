@@ -176,7 +176,9 @@ a:hover { color: #222; }
 
 a img { border: none; }
 
-img { max-width: 100%;}
+/* img { max-width: 100%;} */
+
+
 
 .book-card img {
 	width: 100%;
@@ -329,7 +331,7 @@ span.middot {
 
 .topmargin-sm { margin-top: 30px !important; }
 
-.bottommargin-sm { margin-bottom: 30px !important; }
+.bottommargin-sm { margin-bottom: 10px !important; }
 
 .clear-bottommargin-sm { margin-bottom: -30px !important; }
 
@@ -12186,6 +12188,8 @@ button.toast-close-button {
 .sidebar-widgets-wrap .widget > h4 { letter-spacing: 1px; }
 
 .widget p:not(.lead) { font-size: 14px; }
+
+
 
 
 /* Tag Cloud
