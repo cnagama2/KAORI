@@ -9684,8 +9684,8 @@ body:not(.device-touch) .clients-grid li a {
 	font-style: italic;
 }
 
-.testi-content p:before,
-.testi-content p:after { content: '"'; }
+/* .testi-content p:before,
+.testi-content p:after { content: '"'; } */
 
 .testi-meta {
 	margin-top: 10px;
