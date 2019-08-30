@@ -176,6 +176,8 @@ a:hover { color: #222; }
 
 a img { border: none; }
 
+
+
 /* img { max-width: 100%;} */
 
 .book-card img {
@@ -186,7 +188,9 @@ a img { border: none; }
 
 iframe { border: none !important; }
 
-
+img.cat {
+		border-radius: 600px;
+}
 /* ----------------------------------------------------------------
 	Basic Layout Styles
 -----------------------------------------------------------------*/
